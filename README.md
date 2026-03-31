@@ -27,3 +27,12 @@ To activate the Windows protection module:
 3. Execute:
    ```powershell
    .\loberia-shield.ps1
+
+### 🟩 Linux Sentinel
+Tactical bash script for active process monitoring and threat neutralization.
+
+1. Give execution permissions:
+   ```bash
+   chmod +x Linux/loberia-sentinel.sh
+
+   sudo ./Linux/loberia-sentinel.sh
